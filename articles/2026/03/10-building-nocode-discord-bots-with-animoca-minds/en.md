@@ -1,25 +1,3 @@
----
-title: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
-title_en: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
-date: "2026-03-10"
-author: "Animoca Minds"
-language: "en"
-tags:
-  - animoca-minds
-  - discord
-  - no-code
-  - ai-agents
-  - tutorial
-  - web3
-source_url: "https://x.com/AnimocaMinds/status/2029857923589980607"
-slug: "building-nocode-discord-bots-with-animoca-minds"
-distributions:
-  - platform: "x"
-    url: "https://x.com/AnimocaMinds/status/2029857923589980607"
-  - platform: "github"
-    url: ""
----
-
 ![Building No-Code Discord Bots with Animoca Minds](assets/banner.png)
 
 # Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds
@@ -177,3 +155,25 @@ Ready to deploy? Head to Animoca Minds today and experiment. Your projects will 
 * Animoca Minds platform: [https://www.animocaminds.ai/](https://www.animocaminds.ai/)  
 * Discord Developer Portal: [https://discord.com/developers/applications](https://discord.com/developers/applications)  
 * Discord Developer Team Guide: [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team)
+
+---
+title: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
+title_en: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
+date: "2026-03-10"
+author: "Animoca Minds"
+language: "en"
+tags:
+  - animoca-minds
+  - discord
+  - no-code
+  - ai-agents
+  - tutorial
+  - web3
+source_url: "https://x.com/AnimocaMinds/status/2029857923589980607"
+slug: "building-nocode-discord-bots-with-animoca-minds"
+distributions:
+  - platform: "x"
+    url: "https://x.com/AnimocaMinds/status/2029857923589980607"
+  - platform: "github"
+    url: ""
+---
