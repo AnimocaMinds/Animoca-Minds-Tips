@@ -1,5 +1,12 @@
-![Créer des bots Discord sans code avec Animoca Minds](assets/banner.png)
-
-# Libérer des agents IA pour chaque compétence : Créer des bots Discord sans code avec Animoca Minds
-
-Alors que l'écosystème des outils numériques continue d'évoluer, les agents IA transforment fondamentalement la façon dont nous interagissons avec les plateformes, les communautés et les projets créatifs. Soutenu par Animoca Brands (@AnimocaBrands), Animoca Minds incarne ce changement en intégrant une IA avansée pour stimuler la productivité, l'automatisation et l'innovation.
+---
+title: "Déblocuer les agents EI pour chaque compétence : création de bots Discord sans code avec Animoca Minds"
+title_en: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
+date: "2026-03-10"
+author: "Animoca Minds"
+language: "fr"
+tags: [animoca-minds, discord, no-code, ai-agents, tutorial, web3]
+source_url: "https://x.com/AnimocaMinds/status/2029857923589980607"
+slug: "building-nocode-discord-bots-with-animoca-minds"
+---
+# Déblocuer les agents EI pour chaque compétence : création de bots Discord sans code avec Animoca Minds
+(Contenu complet en cours...)
