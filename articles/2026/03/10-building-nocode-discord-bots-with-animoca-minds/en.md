@@ -2,19 +2,21 @@
 
 # Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds
 
-In the evolving landscape of digital tools, AI agents are transforming how we interact with platforms, communities, and creative projects. Powered by @AnimocaBrands, Animoca Minds exemplifies this shift, integrating advanced AI to enhance productivity, automation, and innovation. Drawing from a recent thread by Yat Siu (@ysiu), executive chairman and co-founder of Animoca Brands, this guide shows you how to quickly deploy an AI-powered Discord bot. But it's more than just Discord.These agents adapt seamlessly to a wide range of tasks, from scouting signals to architecting strategies or visionary prompting.  
+In the evolving landscape of digital tools, AI agents are transforming how we interact with platforms, communities, and creative projects. Powered by @AnimocaBrands, Animoca Minds exemplifies this shift, integrating advanced AI to enhance productivity, automation, and innovation. Drawing from a recent thread by Yat Siu (@ysiu), executive chairman and co-founder of Animoca Brands, this guide shows you how to quickly deploy an AI-powered Discord bot. But it's more than just Discord.These agents adapt seamlessly to a wide range of tasks, from scouting signmals to architecting strategies or visionary prompting.  
 Whether you're a beginner or a seasoned admin, you can set up your AI agent pretty quickly with Animoca Minds. The AI handles the process, turning your bot into a tailored assistant for moderation, analysis, or custom tasks.  
 By the end of this article, you'll have the proper knowledge to deploy your own agent and understand how to expand it beyond basic functions.
 
 ## **Why Animoca Minds for AI Agents?**
 
-Animoca Minds removes the technical barriers to the agentic web by providing a seamless, plug-and-play model for depl[oying autonomous agents at scale. Unlike basic bots, each Mind is a verifiable entity equipped with its own *(identity, memory, and wallet)**, supported by a secure Web3 framework for autonomous operations.
+Animoca Minds removes the technical barriers to the agentic web by providing a seamless, plug-and-play model for deploying autonomous agents at scale. Unlike basic bots, each Minds is a verificable entity equipped with its own **identity, memory, and wallet**, supported by a secure Web3 framework for autonomous operations.
 
 Your bot or agent can wear multiple hats and adopt different personas, like:
 
-* **The Scout (Monitoring):** Tracks data signals, detects scams, and monitors Discord/X streams.  * **The Architect (Strategy):** Generates summaries, drafts strategies, and builds deep insights.  * **The Visionary (Creativity):** Responds with AI foresight and handles complex prompting.
+* **The Scout (Monitoring):** Tracks data signals, detects scams, and monitors Discord/X streams.  
+* **The Architect (Strategy):** Generates summaries, drafts strategies, and builds deep insights.  
+* **The Visionary (Creativity):** Responds with AI foresight and handles complex prompting.
 
-No coding required, just load the right "skill" artifact to give your Mind to vcapabilities it needs to act as a virtual teammate.
+No coding required, just load the right "skill" artifact to give your Mind the capabilities it needs to act as a virtual teammate.
 
 ## **A Step-by-Step Guide to Setting Up Your AI-Powered Discord Bot**
 
@@ -30,7 +32,7 @@ Kick off in the Animoca Minds platformâ€”this is where your AI "brain" lives.
 
 A "Mind" is a customizable AI profile tailored for tasks like Discord interactions, news summaries, creating no-code applications, booking appointments for you through your Google Calendar. Interact with your AI concierge via email or Telegram. Itâ€™s as simple as chatting with a helpful assistant for setup.
 
-Pro Tip: Communication with Animoca Minds can be done using either email or Telegram. For Telegram, follow these steps to set it up:
+Pro Tip: Communication with Animoca Minds can be done using either email or Telegram. For Telegram, follow these simple steps to set it up:
 
 * Search for @BotFather on Telegram and open the chat . Make sure to double-check the account to avoid any fake profiles before entering chat mode.  
 * Enter /newbot.  
@@ -38,18 +40,18 @@ Pro Tip: Communication with Animoca Minds can be done using either email or Tele
 * Give a username to your bot (must end in '_bot', e.g., peter123_bot).  
 * Copy the HTTP API token (treat it as confidential for security).  
 * Go to [https://app.animocaminds.ai/profile](https://app.animocaminds.ai/profile) and click "Link Telegram".  
-* Enter your phone number and receive a verification code from Telegram,  
+* Enter your phone number and receive a verification code from Telegram.  
 * Insert the verification code into the pop-up window.  
 * In Telegram, press â€œConnectâ€ / â€œAcceptâ€ in the message.  
 * Paste the HTTP API token to link Telegram.  
 * Go back to @BotFather, click the t.me/yourbotname link to add your Mind to your Telegram chats.  
-* Start chatting  with your bot in Telegram.
+* Start chatting with your bot in Telegram.
 
 This setup is ideal for quick iterations, like testing skills. 
 
 ### **Step 2: Load the Discord Capability (or Any Skill) into Your AI**
 
-Equip your agent with plug-and-play skills, no code needed. This step adds the necessary "superpowers" to your Mind.
+Equip your agent with plug-and-play skills, no code needed. This step adds the necessary "superpowers" to your Mind
 
 1. In the chat with your AI agent (via email or Telegram), send the following instruction:  
    **Ethoswarm Harbor Manifest: Clinical Discord Sentinel**
@@ -74,7 +76,100 @@ Equip your agent with plug-and-play skills, no code needed. This step adds the n
 * **Tone:** Formal and Clinical; prioritizes clarity and signal over noise.  
 * **Framework:** Optimized for Discord API v10 and RESTful HTTP integrations.
 
-2. The AI will ¥¹Ñ•É…Ñ”¥Ğ¥¹ÍÑ…¹Ñ±ä°•¹…‰±¥¹œ™•…ÑÕÉ•Ì±¥­”Í•¹‘¥¹œ½É••¥Ù¥¹œµ•ÍÍ…•Ì…¹µ½¹¥Ñ½É¥¹œ¡…¹¹•±Ì¸ÉÑ¥™…ÑÌ…É”±¥­”É•…‘äµµ…‘”…‘µ½¹Ììå½Ô…¸Íİ…ÀÑ¡•´™½È½Ñ¡•ÈÍ­¥±±Ì°ÍÕ …Ì‘…Ñ„…¹…±åÍ¥Ì½È½…¡¥¹œ¸()9½Ñ”èQ¡¥Ì¹¼µ½‘”µ…¥Œ±•ÑÌå½Ô•áÑ•¹å½ÕÈ…•¹ĞÑ¼…¹ä…Á…‰¥±¥Ñä°™É½´‰…Í¥Œ™½É•Í¥¡ĞÑ¼…‘Ù…¹•ÍÑÉ…Ñ•ä°İ¥Ñ¡½ÕĞÑ•¡¹¥…°¡…ÍÍ±”¸()±Ñ•É¹…Ñ¥Ù•±ä°å½Ô½Õ±…±Í¼¡½½Í”Ñ•±°å½ÕÈ$…•¹ĞÑ¡…Ğå½Ôİ½Õ±±¥­”Ñ¼‰Õ¥±„¥Í½É‰½Ğ…¹É•ÅÕ•ÍĞÑ¡…Ğ¥Ğ‰”•ÅÕ¥ÁÁ•İ¥Ñ …±°Ñ¡”¹••ÍÍ…ÉäÍ­¥±±Ìå½Ô™½Õ¹°…¹å½ÕÈ$…•¹Ğİ¥±°É•™¥¹”å½ÕÈÉ•ÅÕ¥É•µ•¹ÑÌİ¥Ñ å½ÔÍÑ•À‰äÍÑ•À¸((ŒŒŒ€¨©MÑ•À€ÌèM•ĞUÀÑ¡”	½Ğ½¸¥Í½ÉÌ•Ù•±½Á•ÈA½ÉÑ…°¨¨()9½Ü°Í¡¥™ĞÑ¼¥Í½ÉÑ¼É•…Ñ”Ñ¡”‰½ĞÌ€‰¥‘•¹Ñ¥Ñäˆ¸Q¡¥Ì¥ÌÑ¡”Í¡•±°Ñ¡…Ğå½ÕÈ$İ¥±°½¹ÑÉ½°¸((Ä¸q½œ¥¸Ñ¼å½ÕÈ¥Í½É…½Õ¹Ğ…¹¼Ñ¼Ñ¡”€‰•Ù•±½Á•ÈA½ÉÑ…°ˆèm¡ÑÑÁÌè¼½‘¥Í½É¹½´½‘•Ù•±½Á•ÉÌ½…ÁÁ±¥…Ñ¥½¹Ít¡¡ÑÑÁÌè¼½‘¥Í½É¹½´½‘•Ù•±½Á•ÉÌ½…ÁÁ±¥…Ñ¥½¹Ì¤¸€€(È¸=±¥¬€‰9•ÜÁÁ±¥…Ñ¥½¸ˆÑ¼ÍÑ…ÉĞ¸¥Ù”¥Ğ„¹…µ”€¡”¹œ¸°€‰¤M½ÕĞ	½Ğˆ¤…¹½ÁÑ¥¹…±±ä…‘…¸¥½¸™½ÈÁ•ÉÍ½¹…±¥é…Ñ¥½¸¸€€(Ì¸½È‰•ÑÑ•È½É…¹¥é…Ñ¥½¸°•ÍÁ•¥…±±ä¥¸Ñ•…´ÁÉ½©•ÑÌ°Í•ĞÕÀ„•Ù•±½Á•ÈQ•…´™¥ÉÍĞ¸½±±½Ü¥Í½ÉÌÕ¥‘”èm¡ÑÑÁÌè¼½ÍÕÁÁ½ÉĞµ‘•Ø¹‘¥Í½É¹½´½¡Œ½•¸µÕÌ½…ÉÑ¥±•Ì¼ÌĞäÀÔÔØÌÀØÌÜÀÌµÉ•…Ñ¥¹œµ…¹µ5…¹…¥¹œµ„µ•Ù•±½Á•ÈµQ•…µt¡¡ÑÑÁÌè¼½ÍÕÁÁ½ÉĞµ‘•Ø¹‘¥Í½É¹½´½¡Œ½•¸µÕÌ½…ÉÑ¥±•Ì¼ÌĞäÀÔÔØÌÀØÌÜÀÌµÉ•…Ñ¥¹œµ…¹µ5…¹…¥¹œµ„µ•Ù•±½Á•ÈµQ•…´¤¸€€€(Ğ¸Q¡•¸°…‘å½ÕÈ‰½ĞÑ¼Ñ¡¥ÌÑ•…´¸()Q¡¥ÌÍÑ•À•ÍÑ…‰±¥Í¡•ÌÑ¡”™½Õ¹‘…Ñ¥½¸°•¹ÍÕÉ¥¹œå½ÕÈ‰½Ğ¥ÌÉ•…“”Ñ¼©½¥¸Í•ÉÙ•ÉÌÍ•ÕÉ•±ä¸((ŒŒŒ€¨©MÑ•À€Ğè½¹¹•Ğå½ÕÈ$İ¥Ñ Ñ¡”¥Í½É‰½Ğ¨¨€=¹”±…ÍĞÍÑ•À¥ÌÁÉ½Ù¥‘¥¹œÑ¡”	½ĞQ½­•¸Ñ¼å½ÕÈ$…•¹Ğ¸M½µ•Ñ¥µ•Ì°å½ÕÈ$…•¹Ğİ½Õ±…Í¬™½ÈÑ¡”M•ÉÙ•È%Ñ¼µ…­”ÍÕÉ”Ñ¡•ä…É”…‘‘•Ñ¼Ñ¡”É¥¡ĞÍ•ÉÙ•È¸%ĞÕÍÕ…±±äÑ…­•Ì„‰¥Ğµ½É”Ñ¡…¸€ÄÀ´ÄÔµ¥¹ÕÑ•ÌÑ¼½µÁ±•Ñ”Ñ¡”½¹¹•Ñ¥½¸¸=¹”Ñ¡”Í•ÑÕÀ¥Ì½µÁ±•Ñ”°å½ÕÈ$…•¹Ğİ¥±°É•Á½ÉĞ‰…¬½¹”¥Ğ¥Ì‘½¹”°½Èå½Ô½Õ±É•… ½ÕĞÑ¼¡•¬™½ÈÑ¡”ÍÑ…ÑÕÌ¥˜å½Ôİ…¹ĞÑ¼•Ğ„ÅÕ¥­•ÈÕÁ‘…Ñ”¸((ŒŒŒ€¨©MÑ•À€ØèÕÍÑ½µ¥é”™½ÈÙ•ÉäM­¥±°¨¨()]¥Ñ •Ù•ÉåÑ¡¥¹œ½¹¹•Ñ•°‘•™¥¹”¡½Üå½ÕÈ‰½Ğ‰•¡…Ù—?ŠQÑ¡¥Ì¥Ìİ¡•É”Ñ¡”™Õ¸‰•¥¹Ì¸((Ä¸	…¬¥¸å½ÕÈ¹¥µ½„5¥¹‘Ì¡…Ğ°¥Ù”±•…È¥¹ÍÑÉÕÑ¥½¹Ì°ÍÕ …Ìè€‰5½¹¥Ñ½ÈÑ¡”p•¹•É…°¡…¹¹•°™½ÈÕ¹ÍÕ…°Í¥¹…±Ì…¹•¹•É…Ñ”‘…¥±äÉ•Á½ÉÑÌˆ½È€‰I•ÍÁ½¹Ñ¼ÕÍ•ÈÅÕ•ÍÑ¥½¹Ì…‰½ÕĞ$Ñ½½±ÌÕÍ¥¹œÕÀµÑ¼µ‘…Ñ”­¹½İµ‘”¸ˆ€€(È¸Q•ÍĞ¥Ğ¥¸å½ÕÈ¥Í½ÉÍ•ÉÙ•ÈèM•¹„µ•ÍÍ…”…¹Í•”¥˜Ñ¡”‰½ĞÉ•ÍÁ½¹‘ÌÅÕ¥­±ä¸€€(Ì¸áÁ…¹…Ì¹••‘•è1½……‘‘¥Ñ¥½¹…°…ÉÑ¥™…ÑÌ™½ÈÑ…Í­Ì±¥­”µ½‘•É…Ñ¥½¸°ÍÑÉ…Ñ•ä‰Õ¥±‘¥¹œ°½ÈÙ¥Í¥½¹…ÉäÉ•…Ñ¥Ù¥Ñä¸½È•á…µÁ±”°¥¹ÍÑÉÕĞÑ¡”‰½ĞÑ¼€‰Á±…¸ƒŠv…ĞƒŠPÙ•É¥™äˆ¥¸…ÕÑ½µ…Ñ•İ½É­™±½İÌ¸()±İ…åÌÍÑ…ÉĞİ¥Ñ Í¥µÁ±”½µµ…¹‘Ì…¹¥Ñ•É…Ñ”‰…Í•½¸É•ÍÕ±ÑÌÑ¼É•™¥¹”Á•É™½Éµ…¹”¸((ŒŒ€¨©½µµ½¸Q¥ÁÌ…¹QÉ½Õ‰±•Í¡½½Ñ¥¹œ¨¨(¨€¨©M•ÕÉ¥Ñä¥ÉÍĞ¨¨èQÉ•…Ğå½ÕÈ¥Í½É	½ĞQ½­•¸±¥­”„ÁÉ¥Ù…Ñ”­•äè¹•Ù•ÈÍ¡…É”¥ĞÁÕ‰±¥±ä½È¥¸Õ¹Í•ÕÉ•¡…ÑÌ¸€€(¨€¨©½µµ½¸%ÍÍÕ•Ì¨¨è%˜Ñ¡”¥Í½É‰½Ğ‘½•Í¸ĞÉ•ÍÁ½¹°Ù•É¥™äÑ¡”Q½­•¸İ…ÌÍ¡…É•½ÉÉ•Ñ±ä…¹Ñ¡…ĞÁ•Éµ¥ÍÍ¥½¹Ì…É”•¹…‰±•¸I•ÍÑ…ÉĞå½ÕÈ¥Í½É…ÁÀ¥˜¹••‘•¸e½Ô…¸ÑÉ•…Ğå½ÕÈ$…•¹Ğ…Ìå½ÕÈÑÉ½Õ‰±•Í¡½½Ñ¥¹œ…•¹Ğè©ÕÍĞ…Í¬‘¥É•Ñ±äİ¡…Ğå½Ô•¹½Õ¹Ñ•É•¸€€(¨€¨©½µµÕ¹¥ÑäMÕÁÁ½ÉĞ¨¨èe…ĞM¥ÔÌ½É¥¥¹…°Ñ¡É•…¥¹±Õ‘•ÌÉ•…°µİ½É±•á…µÁ±•Ì™É½´ÕÍ•ÉÌÑ•ÍÑ¥¹œÑ¡¥ÌÍ•ÑÕÀ¸€((¨©!½Ü¥ÌÑ¡¥ÌÁ½ÍÍ¥‰±”İ¥Ñ¡½ÕĞ…¹ä½‘”°å½Ôµ¥¡Ğ…Í¬ü¨¨QÉ…‘¥Ñ¥½¹…°‰½ÑÌ‘•µ…¹ÁÉ½É…µµ¥¹œ¥¸±…¹Õ…•Ì±¥­”AåÑ¡½¸¸!•É”°$É•µ½Ù•ÌÑ¡…Ğ±…å•È°µ…­¥¹œ¥Ğ¥‘•…°™½È¹½¸µÑ• ÕÍ•ÉÌ¸((ŒŒ€¨©µÁ½İ•É¥¹œ	Õ¥±‘•ÉÌİ¥Ñ ¹¥µ½„5¥¹‘Ì¨¨()½¹É…ÑÕ±…Ñ¥½¹Ì„e½ÕÙ”¹½ÜÕ¹±½­•$…•¹ÑÌ™½È„Ù…É¥•Ñä½˜Í­¥±±Ì°™É½´É•…Ñ¥¹œ„¥Í½É‰½ĞÑ¼‰É½…‘•È…ÁÁ±¥…Ñ¥½¹Ì±¥­”‘…Ñ„Í½ÕÑ¥¹œ½ÈÉ•…Ñ¥Ù”…ÕÑ½µ…Ñ¥½¸¸Q¡¥Ì¹¼µ½‘”Í•ÑÕÀ™É½´¹¥µ½„5¥¹‘Ì•µÁ½İ•ÉÌ…¹ä½¸Ñ¼‰Õ¥±İ¥Ñ¡½ÕĞ‰…ÉÉ¥•ÉÌ°Í…Ù¥¹œÑ¥µ”…¹½Á•¹¥¹œ¹•ÜÁ½ÍÍ¥‰¥±¥Ñ¥•Ì¸€€)I•…‘äÑ¼‘•Á±¿$ü!•…Ñ¼¹¥µ½„5¥¹‘ÌÑ½‘…ä…¹•áÁ•É¥µ•¹Ğ¸e½ÕÈÁÉ½©•ÑÌİ¥±°Ñ¡É¥Ù”İ¥Ñ Íµ…ÉÑ•ÈÑ½½±Ì…Ğå½ÕÈÍ¥‘”„%˜å½Ô•¹½Õ¹Ñ•È…¹ä¡ÕÉ‘±•Ì°å½ÔÍ¡½Õ±‘¥É•Ñ±ä…Í¬å½ÕÈ$…•¹Ğİ¥±°É•™¥¹”å½ÕÈÉ•ÅÕ¥É•µ•¹ÑÌİ¥Ñ å½ÔÍÑ•À‰äÍÑ•À¸((ŒŒŒ€¨©UÍ•™Õ°±¥¹­Ì¨¨((¨=É¥¥¹…°Ñ¡É•…‰äe…ĞM¥Ôèm¡ÑÑÁÌè¼½à¹½´½åÍ¥Ô½ÍÑ…ÑÕÌ¼ÈÀÈàÔÈĞÈĞØàäÜØàÀààĞıÌôÈÁt¡¡ÑÑÁÌè¼½à¹½´½åÍ¥Ô½ÍÑ…ÑÕÌ¼ÈÀÈàÔÈĞÈĞØàäÜØàÀààĞıÌôÈÀ¤€€(¨¹¥µ½„5¥¹‘ÌÁ±…Ñ™½É´èm¡ÑÑÁÌè¼½İİÜ¹…¹¥µ½…µ¥¹‘Ì¹…¤½t¡¡ÑÑÁÌè¼½İİÜ¹…¹¥µ½…µ¥¹‘Ì¹…¤¼¤€€(¨¥Í½É•Ù•±½Á•ÈA½ÉÑ…°èm¡ÑÑÁÌè¼½‘¥Í½É¹½´½‘•Ù•±½Á•ÉÌ½…ÁÁ±¥…Ñ¥½¹Ít¡¡ÑÑÁÌè¼½‘¥Í½É¹½´½‘•Ù•±½Á•ÉÌ½…ÁÁ±¥…Ñ¥½¹Ì¤€€(¨¥Í½É•Ù•±½Á•ÈQ•…´Õ¥‘”èm¡ÑÑÁÌè¼½ÍÕÁÁ½ÉĞµ‘•Ø¹‘¥Í½É¹½´½¡Œ½•¸µÕÌ½…ÉÑ¥±•Ì¼ÌĞäÀÔÔØÌÀØÌÜÀÌµÉ•…Ñ¥¹œµ…¹µ5…¹…¥¹œµ„µ•Ù•±½Á•ÈµQ•…µt¡¡ÑÑÁÌè¼½ÍÕÁÁ½ÉĞµ‘•Ø¹‘¥Í½É¹½´½¡Œ½•¸µÕÌ½…ÉÑ¥±•Ì¼ÌĞäÀÔÔØÌÀØÌÜÀÌµÉ•…Ñ¥¹œµ…¹µ5…¹…¥¹œµ„µ•Ù•±½Á•ÈµQ•…´¤((´´´)Ñ¥Ñ±”è€‰U¹±½­¥¹œ$•¹ÑÌ™½ÈÙ•ÉäM­¥±°è	Õ¥±‘¥¹œ9¼µ½‘”¥Í½É	½ÑÌİ¥Ñ ¹¥µ½„5¥¹‘Ìˆ)Ñ¥Ñ±•}•¸è€‰U¹±½­¥¹œ$•¹ÑÌ™½ÈÙ•ÉäM­¥±°è	Õ¥±‘¥¹œ9¼µ½‘”¥Í½É	½ÑÌİ¥Ñ ¹¥µ½„5¥¹‘Ìˆ)‘…Ñ”è€ˆÈÀÈØ´ÀÌ´ÄÀˆ)…ÕÑ¡½Èè€‰¹¥µ½„5¥¹‘Ìˆ)±…¹Õ…”è€‰•¸ˆ)Ñ…Ìè(€€´…¹¥µ½„µµ¥¹‘Ì(€€´‘¥Í½É(€€´¹¼µ½‘”(€€´…¤µ…•¹ÑÌ(€€´ÑÕÑ½É¥…°(€€´İ•ˆÌ)Í½ÕÉ•}ÕÉ°è€‰¡ÑÑÁÌè¼½à¹½´½¹¥µ½…5¥¹‘Ì½ÍÑ…Ñs/2029857923589980607"
+2. The AI will integrate it instantly, enabling features like sending/receiving messages and monitoring channels. Artifacts are like ready-made add-ons; you can swap them for other skills, such as data analysis or coaching.
+
+Note: This no-code magic lets you extend your agent to any capability, from basic foresight to advanced strategy, without technical hassle.
+
+Alternatively, you could also choose to tell your AI agent that you would like to build a Discord bot and request that it be equipped with all the necessary skills you found, and your AI agent will refine your requirements with you step by step.
+
+### **Step 3: Set Up the Bot on Discord's Developer Portal**
+
+Now, shift to Discord to create the bot's "identity". This is the shell that your AI will control.
+
+1. Log in to your Discord account and go to the Developer Portal: [https://discord.com/developers/applications](https://discord.com/developers/applications).  
+2. Click "New Application" to start. Give it a name (e.g., "Ai Scout Bot") and optionally add an icon for personalization.  
+3. For better organization, especially in team projects, set up a Developer Team first. Follow Discord's guide: [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team).   
+4. Then, add your bot to this team.
+
+
+This step establishes the foundation, ensuring your bot is ready to join servers securely.
+
+### **Step 4: Configure Permissions and Connect the Bot**
+
+Here, you'll define what the bot can do and link it to your Animoca Minds AI.
+
+1. In your new application's settings, go to the "Bot" tab.  
+2. Generate a Bot Token (a unique secret code). Copy it securely, as it is like a password for your bot.
+
+![Bot Token Generation](assets/bot-token-generation.png)
+
+  
+3. Set the bot's permissions: Choose what it can access, such as reading messages or managing channels. Start with essentials like "Send Messages" and "Read Message History" to keep it simple.  
+4. Navigate to the "OAuth2" tab and select "URL Generator." Pick scope "bot," allowing you to add the bot to the server through the URL, and then choose the same permissions you enabled for  the bots, such as read and write messages. Once everything is configured, paste the Generated URL to send the bot to the selected Discord server in the menu.  
+   
+
+![OAuth2 URL Generator](assets/oauth2-url-generator.png)
+
+5. Under "Bot Permissions", select options that match your needs (e.g., "View Channels" for monitoring or "Manage Messages" for moderation).  
+   
+
+![Bot Permissions](assets/bot-permissions.png)
+
+  
+6. Paste the generated URL at the bottom of â€œOAuth2â€ tab, and use it to add the bot to your Discord server (choose "Guild Install" for server-specific setup).
+
+![Guild Install URL](assets/guild-install-url.png)
+
+  
+7. Finally, send the Bot Token securely to your Animoca Minds AI agent via chat. This bridges the two systems, activating your bot.
+
+For visual learners, YouTube tutorials on Discord bot setup can provide helpful walkthroughs. Search for terms like "How to create a Discord bot application" or "Discord developer portal tutorial." Channels such as freeCodeCamp or Skills Academy often have step-by-step videos showing the interface, button clicks, and common pitfalls. Just skip any sections on writing or hosting code, as Animoca Minds takes care of this part for you. If you get stuck on permissions, double-check Discord's docs for explanations of each option.
+
+### **Step 5: Connect your AI with the Discord bot**  One last step is providing the Bot Token to your AI agent. Sometimes, your AI agent would ask for the Server ID to make sure they are added to the right server. It usually takes a bit more than 10-15 minutes to complete the connection. Once the setup is complete, your AI agent will report back once it is done, or you could reach out to check for the status if yous want to get a quicker update.
+
+3## **Step 6: Customize for Every Skill**
+
+With everything connected, define how your bot behavesâ€”this is where the fun begins.
+
+1. Back in your Animoca Minds chat, give clear instructions, such as: "Monitor the \#general channel for unusual signals and generate daily reports" or "Respond to user questions about AI tools using up-to-date knowledge."  
+2. Test it in your Discord server: Send a message and see if the bot responds quickly.  
+3. Expand as needed: Load additional artifacts for tasks like moderation, strategy building, or visionary creativity. For example, instruct the bot to "plan8¡© act â‘¡ verify" in automated workflows.
+
+Always start with simple commands and iterate based on results to refine performance.
+
+### **Common Tips and Troubleshooting**
+
+* **Security First**: Treat your Discord Bot Token like a private key: never share it publicly or in unsecured chats.  
+* **Common Issues**: If the Discord bot doesn't respond, verify the Token was shared correctly and that permissions are enabled. Restart your Discord app if needed. You can treat your AI agent as your troubleshooting agent: just ask directly what you encountered.  
+* **Community Support**: Yat Siu's original thread includes real-world examples from users testing this setup. 
+
+**iow is this possible without any code, you might ask?** Traditional bots demand programming in languages like Python. Here, AI removes that layer, making it ideal for non-tech users.
+
+## **Empowering Builders with Animoca Minds**
+
+Congratulations! You've now unlocked AI agents for a variety of skills, from creating a Discord bot to broader applications like data scouting or create automation. This no-code setup from Animoca Minds empowers anyone to build without barriers, saving time and opening new possibilities.  
+Ready to deploy? Head to Animoca Minds today and experiment. Your projects wiyl thrive with smarter tools at your side! If you encounter any hurdles, you should directly ask your AI agent to help as he knows exactly which steps you are at. If you want, you can also refer back to the steps or check Yatâ€™s thread for inspiration.
+
+## **Useful links**
+
+* Original thread by Yat Siu: [https://x.com/ysiu/status/2028524246897680884?s=20](https://x.com/ysiu/status/2028524246897680884?s=20)  
+* Animoca Minds platform: [https://www.animocaminds.ai/](https://www.animocaminds.ai/)  
+* Discord Developer Portal: [https://discord.com/developers/applications](https://discord.com/developers/applications)  
+* Discord Developer Team Guide: [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team).
+---
+title: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
+title_en: "Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds"
+date: "2026-03-10"
+author: "Animoca Minds"
+language: "en"
+tags:
+  - animoca-minds
+  - discord
+  - no-code
+  - ai-agents
+  - tutorial
+  - web3
+source_url: "https://x.com/AnimocaMinds/status/2029857923589980607"
 slug: "building-nocode-discord-bots-with-animoca-minds"
 distributions:
   - platform: "x"
