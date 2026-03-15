@@ -19,6 +19,8 @@ Google Cloud Console is where you create a project and enable the three APIs you
 1. **Create** a New Project.
 2. **Enable** 3 APIs: Google Drive API, Google Docs API, and Google Sheets API.
 
+![Enable APIs in Google Cloud Console](assets/step-cloud-api.png)
+
 It is just three toggles. Total time: ~20 seconds. ⏱️
 
 ## Step 3: The Final Handshake
@@ -26,7 +28,14 @@ It is just three toggles. Total time: ~20 seconds. ⏱️
 OAuth credentials (Open Authorization) allow your Mind to securely access your Google Drive on your behalf. This is a two-part setup:
 
 1. **OAuth Client ID:** Create a "Web App" Client ID at APIs & Services. Use the redirect URL `https://developers.google.com/oauthplayground` and download your Client Secret JSON file.
+
+![OAuth Client Secret JSON](assets/step-oauth-client.png)
+
 2. **Access & Refresh Tokens:** Use the [OAuth Playground](https://developers.google.com/oauthplayground/) with the scope `https://www.googleapis.com/auth/drive` to generate your Access token and Refresh token.
+
+![OAuth Playground — Authorize APIs](assets/step-oauth-playground-1.png)
+
+![OAuth Playground — Exchange tokens](assets/step-oauth-playground-2.png)
 
 Paste the Auth code, tokens, and JSON into your Mind. **You're all set!** Your AI now lives inside Google Drive — create, edit, and automate.
 
