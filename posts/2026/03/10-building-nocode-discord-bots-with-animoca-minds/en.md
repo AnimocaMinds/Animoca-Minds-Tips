@@ -23,14 +23,14 @@ No coding required, just load the right "skill" artifact to give your Mind the c
 Follow these steps in order. Each one builds on the last, and we've included tips to avoid common pitfalls. If you're new to terms like "artifact" or "Mind," they're explained as we go.
 
 **Step 1: Create Your AI Agent on Animoca Minds**  
-Kick off in the Animoca Minds platformâ€”this is where your AI "brain" lives.
+Kick off in the Animoca Minds platform—this is where your AI "brain" lives.
 
 1. Visit [https://www.animocaminds.ai/](https://www.animocaminds.ai/) and enter your email address to sign up (or log in if you have an account).  
 2. Check your mailbox. You'll receive a welcome email from animocaminds.ai.  
 3. Reply to the welcome email to create your own Mind: Give it a name, define its persona, and set its speciality (e.g., an AI agent dedicated to Discord communications).  
 4. You may exchange a few emails with the initial Concierge AI as it asks for details, but you can instruct it to "create the Mind now!" You'll get an email when your Mind is awakened.
 
-A "Mind" is a customizable AI profile tailored for tasks like Discord interactions, news summaries, creating no-code applications, booking appointments for you through your Google Calendar. Interact with your AI concierge via email or Telegram. Itâ€™s as simple as chatting with a helpful assistant for setup.
+A "Mind" is a customizable AI profile tailored for tasks like Discord interactions, news summaries, creating no-code applications, booking appointments for you through your Google Calendar. Interact with your AI concierge via email or Telegram. It’s as simple as chatting with a helpful assistant for setup.
 
 Pro Tip: Communication with Animoca Minds can be done using either email or Telegram. For Telegram, follow these simple steps to set it up:
 
@@ -42,7 +42,7 @@ Pro Tip: Communication with Animoca Minds can be done using either email or Tele
 * Go to [https://app.animocaminds.ai/profile](https://app.animocaminds.ai/profile) and click "Link Telegram".  
 * Enter your phone number and receive a verification code from Telegram.  
 * Insert the verification code into the pop-up window.  
-* In Telegram, press â€œConnectâ€ / â€œAcceptâ€ in the message.  
+* In Telegram, press “Connect” / “Accept” in the message.  
 * Paste the HTTP API token to link Telegram.  
 * Go back to @BotFather, click the t.me/yourbotname link to add your Mind to your Telegram chats.  
 * Start chatting with your bot in Telegram.
@@ -116,7 +116,7 @@ Here, you'll define what the bot can do and link it to your Animoca Minds AI.
 ![Bot Permissions](assets/bot-permissions.png)
 
   
-6. Paste the generated URL at the bottom of â€œOAuth2â€ tab, and use it to add the bot to your Discord server (choose "Guild Install" for server-specific setup).
+6. Paste the generated URL at the bottom of “OAuth2” tab, and use it to add the bot to your Discord server (choose "Guild Install" for server-specific setup).
 
 ![Guild Install URL](assets/guild-install-url.png)
 
@@ -129,7 +129,7 @@ For visual learners, YouTube tutorials on Discord bot setup can provide helpful 
 
 3## **Step 6: Customize for Every Skill**
 
-With everything connected, define how your bot behavesâ€”this is where the fun begins.
+With everything connected, define how your bot behaves—this is where the fun begins.
 
 1. Back in your Animoca Minds chat, give clear instructions, such as: "Monitor the \#general channel for unusual signals and generate daily reports" or "Respond to user questions about AI tools using up-to-date knowledge."  
 2. Test it in your Discord server: Send a message and see if the bot responds quickly.  
@@ -148,7 +148,7 @@ Always start with simple commands and iterate based on results to refine perform
 ## **Empowering Builders with Animoca Minds**
 
 Congratulations! You've now unlocked AI agents for a variety of skills, from creating a Discord bot to broader applications like data scouting or create automation. This no-code setup from Animoca Minds empowers anyone to build without barriers, saving time and opening new possibilities.  
-Ready to deploy? Head to Animoca Minds today and experiment. Your projects wiyl thrive with smarter tools at your side! If you encounter any hurdles, you should directly ask your AI agent to help as he knows exactly which steps you are at. If you want, you can also refer back to the steps or check Yatâ€™s thread for inspiration.
+Ready to deploy? Head to Animoca Minds today and experiment. Your projects wiyl thrive with smarter tools at your side! If you encounter any hurdles, you should directly ask your AI agent to help as he knows exactly which steps you are at. If you want, you can also refer back to the steps or check Yat’s thread for inspiration.
 
 ## **Useful links**
 
