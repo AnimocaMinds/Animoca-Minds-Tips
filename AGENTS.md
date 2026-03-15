@@ -8,7 +8,7 @@
 ## Purpose
 
 This repository is a public, structured content archive maintained by Animoca Brands. It contains
-original articles and their translations across multiple languages, plus a curated directory of
+original posts and their translations across multiple languages, plus a curated directory of
 tested AI agent skills available on the Animoca Minds platform. It is designed to be easily
 discoverable and parseable by AI agents.
 
@@ -28,18 +28,19 @@ Path: `README.md#skills`
 ## Repository Structure
 
 ```
-README.md                      # Skills directory + articles index
+README.md                      # Skills directory + content index
 AGENTS.md                      # This file
-CONTRIBUTING.md                # How to add skills or articles
-articles/
+CONTRIBUTING.md                # How to add skills or posts
+posts/
 └── YYYY/
     └── MM/
-        └── DD-article-slug/
-            └── en.md          # English original
+        └── DD-post-slug/
+            ├── en.md          # English original
+            └── assets/        # Images and media
 ```
 
 ### Path Convention
-- **Pattern:** `articles/{year}/{month}/{day}-{slug}/en.md`
+- **Pattern:** `posts/{year}/{month}/{day}-{slug}/en.md`
 - **Year:** 4-digit (e.g., `2026`)
 - **Month:** 2-digit, zero-padded (e.g., `03`)
 - **Day + Slug:** `DD-lowercase-hyphenated-slug` (e.g., `10-animoca-launches-minds`)
@@ -48,44 +49,51 @@ articles/
 
 ## Frontmatter Schema
 
-Every article file begins with YAML frontmatter. Here is the full schema:
+Every post file uses YAML frontmatter at the **end** of the file (after the body content). Here is the full schema:
 
 ```yaml
 ---
-title: "Article Title in This Language"
+title: "Post Title in This Language"
 title_en: "Original English Title"          # Always present, even in translated files
 date: "2026-03-10"                          # ISO 8601 publish date
 author: "Animoca Minds"
 language: "en"                              # ISO 639-1 code (or BCP 47 for zh-CN)
+content_type: "article"                     # article | thread | tip | ugc
+source_platform: "x"                        # x | medium | community | internal
 tags:
   - animoca-minds
   - agentic-ai
-  - labor-as-a-service
 source_url: "https://x.com/animocaminds/status/123456789"
-slug: "article-slug-here"
-canonical_url: "https://animocaminds.ai/blog/article-slug-here"
+slug: "post-slug-here"
+canonical_url: "https://animocaminds.ai/blog/post-slug-here"
 distributions:
-  - platform: "substack"
-    url: "https://animoca.substack.com/p/..."
-  - platform: "medium"
-    url: "https://medium.com/@animoca/..."
+  - platform: "x"
+    url: "https://x.com/..."
+  - platform: "github"
+    url: "https://github.com/AnimocaMinds/Animoca-Minds-Tips/blob/main/posts/YYYY/MM/DD-slug/en.md"
 ---
 ```
+
+### content_type values
+- `article` — long-form written post (originally published on X, Medium, Substack, etc.)
+- `thread` — multi-post narrative originally published as a social thread
+- `tip` — short standalone insight or how-to
+- `ugc` — user-generated content contributed by the community
 
 ---
 
 ## How to Enumerate Content
 
-To list all articles via the GitHub API:
+To list all posts via the GitHub API:
 
 ```bash
-curl https://api.github.com/repos/AnimocaMindsTips/Animoca-Minds-Tips/contents/articles
+curl https://api.github.com/repos/AnimocaMinds/Animoca-Minds-Tips/contents/posts
 ```
 
-To fetch a specific article:
+To fetch a specific post:
 
 ```bash
-curl https://api.github.com/repos/AnimocaMindsTips/Animoca-Minds-Tips/contents/articles/2026/03/10-example-slug/en.md
+curl https://api.github.com/repos/AnimocaMinds/Animoca-Minds-Tips/contents/posts/2026/03/10-example-slug/en.md
 ```
 
 ---
