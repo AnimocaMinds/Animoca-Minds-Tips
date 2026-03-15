@@ -11,21 +11,16 @@
 4. Link directly to the individual skill page — not the Bazaar catalogue root
 5. If no category fits, suggest a new one in your PR description
 
-## Add an article to the content archive
+## Add a post to the content archive
 
-1. Create a folder: `articles/YYYY/MM/DD-your-slug/`
+1. Create a folder: `posts/YYYY/MM/DD-your-slug/`
 2. Add `en.md` with YAML frontmatter — see [AGENTS.md](AGENTS.md) for the required fields
-3. Translations are optional but welcome — use the language codes in AGENTS.md
-4. The article index updates automatically via GitHub Actions
+3. Set `content_type` in the frontmatter: `article`, `thread`, `tip`, or `ugc`
+4. Translations are optional but welcome — use the language codes in AGENTS.md
+5. The content index updates automatically via GitHub Actions
 
 ## Standards
 
 - Skills must be personally tested and confirmed working on the platform
-- Articles must be original content — no reposts of third-party content
-- All links must use full URLs (https://...), not relative paths
-- Author field in frontmatter must be `"Animoca Minds"` for platform content
-
-## Questions
-
-Contact the Animoca Brands marketing team before opening a PR if you're unsure whether
-a skill or article qualifies.
+- Posts must be original content — no reposts of third-party material without attribution
+- All links must resolve at time of submission
