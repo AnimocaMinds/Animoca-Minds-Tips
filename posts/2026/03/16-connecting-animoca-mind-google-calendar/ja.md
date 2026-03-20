@@ -6,7 +6,7 @@
 
 ## ステップ1：あなたのMindを目覚めさせる ⚡
 
-**新規ユーザー：** [AnimocaMinds.ai](https://app.animocaminds.ai)にアクセスし、メールアドレスを入力し、Concierge AIに返信し、Mindに名前を付け、その性格と専門分野を設定します。
+**新規ユーザー：** [AnimocaMinds.ai](https://animocaminds.ai)にアクセスし、メールアドレスを入力し、Concierge AIに返信し、Mindに名前を付け、その性格と専門分野を設定します。
 
 **既存ユーザー：** 新しいMindを作成し、その名前と専門分野を設定します。
 
@@ -48,7 +48,7 @@ Mindにあなたが何をしてほしいかを伝えます。例：
 
 ## 役立つリンク
 
-- [Animoca Mindsアプリ](https://app.animocaminds.ai/)
+- [Animoca Mindsアプリ](https://animocaminds.ai/)
 
 ---
 title: "Animoca MindをGoogleカレンダーに接続する"

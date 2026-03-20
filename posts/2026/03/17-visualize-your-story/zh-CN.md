@@ -20,7 +20,7 @@
 
 第一步是创建并唤醒你的 AI 代理 — 你的 Animoca Mind。
 
-- **新用户：** 访问 [animocaminds.ai](https://app.animocaminds.ai)，输入你的邮箱，按照 Concierge AI 的指引创建你的 Mind。
+- **新用户：** 访问 [animocaminds.ai](https://animocaminds.ai)，输入你的邮箱，按照 Concierge AI 的指引创建你的 Mind。
 - **现有用户：** 请你的 Concierge AI 创建一个新的 Mind。
 
 **专业提示：** 从一开始就清楚地设定 Mind 的目标：
@@ -72,11 +72,11 @@ Mind 设置完成后，触发循环让它工作。你可以指示它：
 
 无论你是在制作电影、漫画系列、游戏叙事还是任何视觉故事形式，Animoca Minds 都能为你提供一个在后台不知疲倦地工作的创意协作者。
 
-**立即唤醒你的 Mind：** [animocaminds.ai](https://app.animocaminds.ai)
+**立即唤醒你的 Mind：** [animocaminds.ai](https://animocaminds.ai)
 
 ## 实用链接
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

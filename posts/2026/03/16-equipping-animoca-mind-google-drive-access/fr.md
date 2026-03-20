@@ -28,14 +28,14 @@ Ce guide fournit les étapes exactes pour connecter votre Animoca Mind à Google
 
 ## Phase 5 : Fournir les identifiants à votre Mind
 
-1. Retournez sur [https://app.animocaminds.ai/](https://app.animocaminds.ai/).
+1. Retournez sur [https://animocaminds.ai/](https://animocaminds.ai/).
 2. Fournissez: [Code d'autorisation], [Access token], [Refresh token], Client Secret JSON.
 
 Votre Mind pourra désormais créer, lire et écrire des fichiers dans votre Google Drive.
 
 ## Liens utiles
 
-- [Plateforme Animoca Minds](https://app.animocaminds.ai/)
+- [Plateforme Animoca Minds](https://animocaminds.ai/)
 - [Console Google Cloud](https://console.cloud.google.com/)
 - [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 

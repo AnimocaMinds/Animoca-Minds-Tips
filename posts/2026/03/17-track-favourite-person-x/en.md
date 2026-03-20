@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Track a person on X](../../../prompts/track-person-on-x.md)
+
+---
+
 ![Track Your Favourite Person on X (Twitter) with Animoca Minds](assets/Follow%20X.jpg)
 
 # Track Your Favourite Person on X (Twitter) with Animoca Minds
@@ -71,11 +75,11 @@ The utility goes way beyond just checking posts faster. Your Mind can follow fou
 
 Continuously optimize by periodically reviewing the reports and refining the requirements in Phase 3 to adjust the Mind's focus as your analytical needs evolve.
 
-**Awaken your Mind today:** [animocaminds.ai](https://app.animocaminds.ai)
+**Awaken your Mind today:** [animocaminds.ai](https://animocaminds.ai)
 
 ## Useful links
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

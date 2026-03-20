@@ -28,14 +28,14 @@
 
 ## 5단계: Mind에 자격증명 제공
 
-1. [https://app.animocaminds.ai/](https://app.animocaminds.ai/)의 Mind로 돌아가기.
+1. [https://animocaminds.ai/](https://animocaminds.ai/)의 Mind로 돌아가기.
 2. 다음 제공: [인증 코드], [액세스 토큰], [리프레시 토큰], Client Secret JSON 파일.
 
 Mind가 Google 드라이브에서 직접 파일을 생성, 읽기, 쓰기할 수 있습니다.
 
 ## 유용한 링크
 
-- [Animoca Minds 플랫폼](https://app.animocaminds.ai/)
+- [Animoca Minds 플랫폼](https://animocaminds.ai/)
 - [Google Cloud Console](https://console.cloud.google.com/)
 - [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 

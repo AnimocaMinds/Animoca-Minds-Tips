@@ -47,9 +47,27 @@ and actions, ensuring every operation is authorized, permanent, and yours.
 
 ---
 
-## Articles
+## Prompts
 
-> Original content from the Animoca Minds team — announcements, guides, and updates.
+> Copy-paste-ready prompts for setting up and configuring your Minds.
+> Looking for step-by-step tutorials? See the [tips](#tips) below.
+
+| Prompt | What it does | Skill needed |
+|--------|-------------|--------------|
+| [Track a person on X](prompts/track-person-on-x.md) | Daily reports on any X account with translation and engagement analysis | Built-in |
+| [Build a Discord bot](prompts/discord-bot.md) | AI-powered Discord bot for monitoring, moderation, and reporting | Discord Sentinel |
+| [Monitor Steam news](prompts/steam-news-monitor.md) | Daily Steam news summaries to Discord or email | Steam_Web_API_v1 |
+| [Trade NFTs on OpenSea](prompts/opensea-nft-trading.md) | Autonomous NFT market analysis and trade execution | OpenSea_Trade_Analysis |
+| [Hunt trends](prompts/trend-hunter.md) | Detect market signals in crypto, AI, and gaming | Trend_Hunter |
+| [Connect Google Calendar](prompts/google-calendar.md) | Autonomous schedule management | GoogleCalendar |
+| [Connect Google Drive](prompts/google-drive.md) | Create, read, and edit Docs and Sheets | Google_Drive_Suite |
+| [Visualize your story](prompts/visual-storyboard.md) | Turn narratives into visual storyboard panels | Storyboard Image Generator |
+
+---
+
+## Tips
+
+> Step-by-step tutorials that walk you through setup. Each tip links to the relevant prompt above.
 > See [CONTRIBUTING.md](CONTRIBUTING.md) to submit a post.
 
 <!-- INDEX_START -->

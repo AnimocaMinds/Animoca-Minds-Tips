@@ -27,10 +27,13 @@ Path: `README.md#skills`
 ## Repository Structure
 
 ```
-README.md                      # Skills directory + content index
+README.md                      # Skills directory + prompts index + tips index
 AGENTS.md                      # This file
 CONTRIBUTING.md                # How to add skills or posts
-posts/
+prompts/                       # Copy-paste-ready prompts (EN only)
+├── README.md                  # Prompt index
+└── {slug}.md                  # One file per prompt
+posts/                         # Step-by-step tips (multilingual)
 └── YYYY/
     └── MM/
         └── DD-post-slug/

@@ -6,7 +6,7 @@ Soit vous gérez la journée, soit la journée vous gère. Avec Animoca Minds, v
 
 ## Étape 1 : Réveillez Votre Mind ⚡
 
-**Nouveaux utilisateurs :** Allez sur [AnimocaMinds.ai](https://app.animocaminds.ai), entrez votre email, répondez au Concierge AI, nommez votre Mind et définissez sa personnalité et sa spécialité.
+**Nouveaux utilisateurs :** Allez sur [AnimocaMinds.ai](https://animocaminds.ai), entrez votre email, répondez au Concierge AI, nommez votre Mind et définissez sa personnalité et sa spécialité.
 
 **Utilisateurs existants :** Créez un nouveau Mind, nommez-le et définissez sa spécialité.
 
@@ -48,7 +48,7 @@ Vos événements Google Calendar se synchronisent maintenant automatiquement. Vo
 
 ## Liens utiles
 
-- [Application Animoca Minds](https://app.animocaminds.ai/)
+- [Application Animoca Minds](https://animocaminds.ai/)
 
 ---
 title: "Connecter Animoca Mind à Google Calendar"

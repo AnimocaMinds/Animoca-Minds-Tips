@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Trade NFTs on OpenSea](../../../prompts/opensea-nft-trading.md)
+
+---
+
 ![OpenSea Integration: Bringing NFT Trading to the Agentic Web with Animoca Minds](assets/banner.png)
 
 # OpenSea Integration: Bringing NFT Trading to the Agentic Web with Animoca Minds

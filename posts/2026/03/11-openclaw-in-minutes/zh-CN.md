@@ -101,11 +101,11 @@ Animoca Minds 是一个处理繁重工作的平台——持久化、协调模式
 
 这是人们在 OpenClaw 中清楚看到的力量，但要成功实施 OpenClaw，你必须是一名开发者，或者拥有非常深厚的知识。Animoca Minds 让任何能力水平的人都能在几分钟内体验代理型 AI 的力量。
 
-在 [animocaminds.ai](http://www.animocaminds.ai) 亲自体验。上手极其简单！
+在 [animocaminds.ai](http://animocaminds.ai) 亲自体验。上手极其简单！
 
 ## 实用链接
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

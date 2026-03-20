@@ -101,11 +101,11 @@ Animoca Minds는 무거운 일을 처리하는 플랫폼입니다 — 영속성,
 
 이것이 사람들이 OpenClaw에서 명확하게 보는 파워이지만, OpenClaw를 성공적으로 구현하려면 개발자이거나 정말 지식이 풍부해야 합니다. Animoca Minds는 모든 능력 수준의 사람이 몇 분 만에 에이전트 AI의 파워를 경험할 수 있게 합니다.
 
-[animocaminds.ai](http://www.animocaminds.ai)에서 직접 경험해 보세요. 시작하기가 믿을 수 없을 만큼 쉽습니다!
+[animocaminds.ai](http://animocaminds.ai)에서 직접 경험해 보세요. 시작하기가 믿을 수 없을 만큼 쉽습니다!
 
 ## 유용한 링크
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

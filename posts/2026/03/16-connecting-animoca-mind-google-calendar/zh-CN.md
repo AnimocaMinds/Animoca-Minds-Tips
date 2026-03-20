@@ -6,7 +6,7 @@
 
 ## 第1步：唤醒你的Mind ⚡
 
-**新用户：** 前往[AnimocaMinds.ai](https://app.animocaminds.ai)，输入你的邮箱，回复Concierge AI，给你的Mind命名，并设置它的个性和专长。
+**新用户：** 前往[AnimocaMinds.ai](https://animocaminds.ai)，输入你的邮箱，回复Concierge AI，给你的Mind命名，并设置它的个性和专长。
 
 **现有用户：** 创建一个新的Mind，然后命名它并设置它的专长。
 
@@ -48,7 +48,7 @@ Equip yourself with the app "GoogleCalendar" (ID: 6750ADAF-BB06-F111-AD1D-0EA9A5
 
 ## 有用的链接
 
-- [Animoca Minds应用](https://app.animocaminds.ai/)
+- [Animoca Minds应用](https://animocaminds.ai/)
 
 ---
 title: "将Animoca Mind连接到Google Calendar"

@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Hunt trends in crypto, AI, and gaming](../../../prompts/trend-hunter.md)
+
+---
+
 ![Mastering Agentic AI: A Guide to the Animoca Minds Trend Hunter Skill](assets/banner.png)
 
 # Mastering Agentic AI: A Guide to the Animoca Minds Trend Hunter Skill

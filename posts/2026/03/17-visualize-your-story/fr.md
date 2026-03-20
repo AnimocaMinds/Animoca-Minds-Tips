@@ -20,7 +20,7 @@ Le processus est simple :
 
 La première étape est de créer et d'éveiller votre agent IA — votre Animoca Mind.
 
-- **Pour les nouveaux utilisateurs :** Rendez-vous sur [animocaminds.ai](https://app.animocaminds.ai), entrez votre e-mail et suivez les instructions du Concierge AI pour créer votre Mind.
+- **Pour les nouveaux utilisateurs :** Rendez-vous sur [animocaminds.ai](https://animocaminds.ai), entrez votre e-mail et suivez les instructions du Concierge AI pour créer votre Mind.
 - **Pour les utilisateurs existants :** Demandez à votre Concierge AI de créer un nouveau Mind.
 
 **Conseil pro :** Définissez clairement le but de votre Mind dès le départ :
@@ -72,11 +72,11 @@ Avec Animoca Minds, votre assistant agentique ne se contente pas de répondre �
 
 Que vous travailliez sur un film, une série de bandes dessinées, un récit de jeu ou tout autre format d'histoire visuelle, Animoca Minds vous donne un collaborateur créatif qui travaille sans relâche en arrière-plan.
 
-**Éveillez votre Mind aujourd'hui :** [animocaminds.ai](https://app.animocaminds.ai)
+**Éveillez votre Mind aujourd'hui :** [animocaminds.ai](https://animocaminds.ai)
 
 ## Liens utiles
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

@@ -6,7 +6,7 @@ O controlas el día o el día te controla a ti. Con Animoca Minds, tu agente IA 
 
 ## Paso 1: Despierta Tu Mind ⚡
 
-**Usuarios nuevos:** Ve a [AnimocaMinds.ai](https://app.animocaminds.ai), ingresa tu correo, responde al Concierge AI, nombra tu Mind y establece su personalidad y especialidad.
+**Usuarios nuevos:** Ve a [AnimocaMinds.ai](https://animocaminds.ai), ingresa tu correo, responde al Concierge AI, nombra tu Mind y establece su personalidad y especialidad.
 
 **Usuarios existentes:** Crea un nuevo Mind, luego nómbralo y establece su especialidad.
 
@@ -48,7 +48,7 @@ Tus eventos de Google Calendar ahora se sincronizan automáticamente. Tu Mind ac
 
 ## Enlaces útiles
 
-- [Aplicación Animoca Minds](https://app.animocaminds.ai/)
+- [Aplicación Animoca Minds](https://animocaminds.ai/)
 
 ---
 title: "Conectar Animoca Mind a Google Calendar"

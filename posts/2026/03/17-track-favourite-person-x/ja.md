@@ -69,11 +69,11 @@ Animoca Mindが*覚醒*したら、日々の運用、分析、最終出力の正
 
 その有用性は単に投稿を速くチェックすることをはるかに超えています。あなたのMindは、創業者、KOL、プロジェクト、ゲームスタジオ、市場コメンテーター、競合他社を同時にフォローできます。異なる言語で投稿されている場合でも同様です。XのトラッキングをX追跡を構造的で、多言語対応した、実際に役立つものに変えます。
 
-**今すぐMindを目覚めさせる：** [animocaminds.ai](https://app.animocaminds.ai)
+**今すぐMindを目覚めさせる：** [animocaminds.ai](https://animocaminds.ai)
 
 ## 役立つリンク
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

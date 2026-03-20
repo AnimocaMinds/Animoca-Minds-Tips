@@ -26,7 +26,7 @@ Animoca Minds éè¿æ ç¼ãå³æå³ç¨çæ¨¡
 
 ä» Animoca Minds å¹³å°å¼å§ââä½ ç AI"è"å°±ä½å¨è¿éã
 
-1. è®¿é® [https://www.animocaminds.ai/](https://www.animocaminds.ai/) å¹¶è¾å¥é®ç®±æ³¨åï¼å¦å·²æè´¦å·åç»å½ï¼ã  
+1. è®¿é® [https://animocaminds.ai/](https://animocaminds.ai/) å¹¶è¾å¥é®ç®±æ³¨åï¼å¦å·²æè´¦å·åç»å½ï¼ã  
 2. æ¥çé®ç®±ãä½ ä¼æ¶å°ä¸å°æ¥èª animocaminds.ai çæ¬¢è¿é®ä»¶ã  
 3. åå¤æ¬¢è¿é®ä»¶ä»¥åå»ºä½ ç Mindï¼ä¸ºå¶å½åãå®ä¹ personaï¼å¹¶è®¾ç½®ä¸é¿ï¼ä¾å¦ï¼ä¸æ³¨äº Discord æ²éç AI æºè½ä½ï¼ã  
 4. å¨åå§ Concierge AI ç´¢è¦æ´å¤ä¿¡æ¯æ¶ï¼ä½ å¯è½ä¼ä¸å¶å¾æ¥æ°å°é®ä»¶ï¼ä½ ä¹å¯ä»¥ç´æ¥æç¤ºå®"create the Mind now!"ãå½ä½ ç Mind è¢«å¤éåï¼ä½ ä¼æ¶å°éç¥é®ä»¶ã
@@ -40,7 +40,7 @@ Animoca Minds éè¿æ ç¼ãå³æå³ç¨çæ¨¡
 * ä¸º bot ååï¼ä¾å¦ï¼My Mind Peterï¼ã  
 * ä¸º bot è®¾ç½®ç¨æ·åï¼å¿é¡»ä»¥ '_bot' ç»å°¾ï¼ä¾å¦ï¼peter123_botï¼ã  
 * å¤å¶ HTTP API tokenï¼åºäºå®å¨èèè¯·è§ä¸ºæºå¯ï¼ã  
-* åå¾ [https://app.animocaminds.ai/profile](https://app.animocaminds.ai/profile) å¹¶ç¹å» "Link Telegram"ã  
+* åå¾ [https://animocaminds.ai/profile](https://animocaminds.ai/profile) å¹¶ç¹å» "Link Telegram"ã  
 * è¾å¥ä½ çææºå·å¹¶æ¥æ¶ Telegram åæ¥çéªè¯ç ã  
 * å°éªè¯ç å¡«å¥å¼¹çªã  
 * å¨ Telegram çæ¶æ¯ä¸­ç¹å» "Connect" / "Accept"ã  
@@ -155,7 +155,7 @@ Animoca Minds éè¿æ ç¼ãå³æå³ç¨çæ¨¡
 ## å®ç¨é¾æ¥
 
 * Yat Siu åå§ threadï¼ [https://x.com/ysiu/status/2028524246897680884?s=20](https://x.com/ysiu/status/2028524246897680884?s=20)  
-* Animoca Minds å¹³å°ï¼ [https://www.animocaminds.ai/](https://www.animocaminds.ai/)  
+* Animoca Minds å¹³å°ï¼ [https://animocaminds.ai/](https://animocaminds.ai/)  
 * Discord Developer Portalï¼ [https://discord.com/developers/applications](https://discord.com/developers/applications)  
 * Discord Developer Team æåï¼ [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team)
 

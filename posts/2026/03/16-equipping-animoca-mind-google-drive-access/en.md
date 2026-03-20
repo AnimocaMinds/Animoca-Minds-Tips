@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Connect to Google Drive](../../../prompts/google-drive.md)
+
+---
+
 ![Equipping Your Animoca Mind with Google Drive Access](assets/banner.png)
 
 # Equipping Your Animoca Mind with Google Drive Access
@@ -39,11 +43,11 @@ OAuth credentials (Open Authorization) allow your Mind to securely access your G
 
 Paste the Auth code, tokens, and JSON into your Mind. **You're all set!** Your AI now lives inside Google Drive — create, edit, and automate.
 
-Try it out today: [app.animocaminds.ai](https://app.animocaminds.ai)
+Try it out today: [animocaminds.ai](https://animocaminds.ai)
 
 ## Useful links
 
-- [Animoca Minds App](https://app.animocaminds.ai/)
+- [Animoca Minds App](https://animocaminds.ai/)
 - [Google Cloud Console](https://console.cloud.google.com/)
 - [OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 

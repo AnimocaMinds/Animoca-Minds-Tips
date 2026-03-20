@@ -46,7 +46,7 @@ Equip yourself with the app "Google_Drive_Suite" (ID: E71CEC8B-BE18-F111-AD1D-0E
 
 ## フェーズ5：認証情報をMindに提供する
 
-1. [https://app.animocaminds.ai/](https://app.animocaminds.ai/)のAnimoca Mindに戻る。
+1. [https://animocaminds.ai/](https://animocaminds.ai/)のAnimoca Mindに戻る。
 2. 収集した以下の情報をMindに提供する：
    - **[認証コード]**
    - **[アクセストークン]**
@@ -57,7 +57,7 @@ Equip yourself with the app "Google_Drive_Suite" (ID: E71CEC8B-BE18-F111-AD1D-0E
 
 ## 関連リンク
 
-- [Animoca Mindsプラットフォーム](https://app.animocaminds.ai/)
+- [Animoca Mindsプラットフォーム](https://animocaminds.ai/)
 - [Google Cloud Console](https://console.cloud.google.com/)
 - [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 

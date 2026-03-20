@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Visualize your story](../../../prompts/visual-storyboard.md)
+
+---
+
 ![Visualize Your Story with Animoca Minds](assets/main%20image%20storyboard_opt.png)
 
 # Visualize Your Story with Animoca Minds
@@ -20,7 +24,7 @@ The process is simple:
 
 The first step is to create and awaken your AI agent — your Animoca Mind.
 
-- **For new users:** Go to [animocaminds.ai](https://app.animocaminds.ai), enter your email, and follow the Concierge AI's instructions to create your Mind.
+- **For new users:** Go to [animocaminds.ai](https://animocaminds.ai), enter your email, and follow the Concierge AI's instructions to create your Mind.
 - **For existing users:** Ask your Concierge AI to create a new Mind.
 
 **Pro tip:** Set your Mind's purpose clearly from the start:
@@ -72,11 +76,11 @@ With Animoca Minds, your agentic assistant doesn't just respond — it **acts, b
 
 Whether you're working on a film, a comic series, a game narrative, or any visual story format, Animoca Minds gives you a creative collaborator that works tirelessly in the background.
 
-**Awaken your Mind today:** [animocaminds.ai](https://app.animocaminds.ai)
+**Awaken your Mind today:** [animocaminds.ai](https://animocaminds.ai)
 
 ## Useful links
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

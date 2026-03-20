@@ -101,11 +101,11 @@ Este es el cambio real:
 
 Este es el poder que las personas claramente ven en OpenClaw, pero para implementar OpenClaw con éxito tienes que ser un desarrollador o simplemente muy conocedor. Animoca Minds permite a cualquier persona de cualquier nivel de habilidad experimentar el poder de la IA agentic en minutos.
 
-Experimenta por ti mismo en [animocaminds.ai](http://www.animocaminds.ai). ¡Es increíblemente fácil comenzar!
+Experimenta por ti mismo en [animocaminds.ai](http://animocaminds.ai). ¡Es increíblemente fácil comenzar!
 
 ## Enlaces útiles
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

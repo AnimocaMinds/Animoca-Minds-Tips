@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Connect to Google Calendar](../../../prompts/google-calendar.md)
+
+---
+
 ![Connecting Animoca Mind to Google Calendar](assets/banner.png)
 
 # Connecting Animoca Mind to Google Calendar
@@ -6,7 +10,7 @@ Either you run the day or the day runs you. With Animoca Minds, your AI agent ca
 
 ## Step 1: Awaken Your Mind ⚡
 
-**New users:** Go to [AnimocaMinds.ai](https://app.animocaminds.ai), enter your email, reply to the Concierge AI, name your Mind, and set its personality and specialty.
+**New users:** Go to [AnimocaMinds.ai](https://animocaminds.ai), enter your email, reply to the Concierge AI, name your Mind, and set its personality and specialty.
 
 **Existing users:** Create a new Mind, then name it and set its specialty.
 
@@ -48,7 +52,7 @@ Your Google Calendar events are now syncing automatically. Your Mind acts, execu
 
 ## Useful links
 
-- [Animoca Minds App](https://app.animocaminds.ai/)
+- [Animoca Minds App](https://animocaminds.ai/)
 
 ---
 title: "Connecting Animoca Mind to Google Calendar"

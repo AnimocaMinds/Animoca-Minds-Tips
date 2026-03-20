@@ -26,7 +26,7 @@ Suivez ces Ã©tapes dans l'ordre. Chacune s'appuie sur la prÃ©cÃ©dente, et 
 
 Commencez sur la plateforme Animoca Minds : c'est lÃ  que rÃ©side votre Â« cerveau Â» IA.
 
-1. Rendez-vous sur [https://www.animocaminds.ai/](https://www.animocaminds.ai/) et saisissez votre adresse e-mail pour vous inscrire (ou connectez-vous si vous avez dÃ©jÃ  un compte).  
+1. Rendez-vous sur [https://animocaminds.ai/](https://animocaminds.ai/) et saisissez votre adresse e-mail pour vous inscrire (ou connectez-vous si vous avez dÃ©jÃ  un compte).  
 2. VÃ©rifiez votre boÃ®te de rÃ©ception : vous recevrez un e-mail de bienvenue provenant de animocaminds.ai.  
 3. RÃ©pondez Ã  l'e-mail de bienvenue pour crÃ©er votre Mind : donnez-lui un nom, dÃ©finissez sa persona et sa spÃ©cialitÃ© (par exemple, un agent IA dÃ©diÃ© aux communications Discord).  
 4. Vous pouvez Ã©changer quelques e-mails avec la Concierge AI initiale lorsqu'elle vous demande des prÃ©cisions, mais vous pouvez aussi lui indiquer Â« create the Mind now! Â». Vous recevrez un e-mail lorsque votre Mind sera activÃ©.
@@ -40,7 +40,7 @@ Conseil pro : La communication avec Animoca Minds peut se faire par e-mail ou Te
 * Donnez un nom au bot (par exemple, My Mind Peter).  
 * Attribuez un nom d'utilisateur au bot (doit se terminer par '_bot', par exemple, peter123_bot).  
 * Copiez le HTTP API token (considÃ©rez-le comme confidentiel pour des raisons de sÃ©curitÃ©).  
-* Rendez-vous sur [https://app.animocaminds.ai/profile](https://app.animocaminds.ai/profile) et cliquez sur "Link Telegram".  
+* Rendez-vous sur [https://animocaminds.ai/profile](https://animocaminds.ai/profile) et cliquez sur "Link Telegram".  
 * Saisissez votre numÃ©ro de tÃ©lÃ©phone et recevez un code de vÃ©rification Telegram.  
 * InsÃ©rez le code de vÃ©rification dans la fenÃªtre pop-up.  
 * Dans Telegram, cliquez sur "Connect" / "Accept" dans le message.  
@@ -155,7 +155,7 @@ PrÃªt Ã  dÃ©ployer ? Rendez-vous sur Animoca Minds dÃ¨s aujourd'hui et e
 ## Liens utiles
 
 * Thread original de Yat Siu : [https://x.com/ysiu/status/2028524246897680884?s=20](https://x.com/ysiu/status/2028524246897680884?s=20)  
-* Plateforme Animoca Minds : [https://www.animocaminds.ai/](https://www.animocaminds.ai/)  
+* Plateforme Animoca Minds : [https://animocaminds.ai/](https://animocaminds.ai/)  
 * Discord Developer Portal : [https://discord.com/developers/applications](https://discord.com/developers/applications)  
 * Guide Discord Developer Team : [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team)
 

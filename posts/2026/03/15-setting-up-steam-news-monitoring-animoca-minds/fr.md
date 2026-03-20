@@ -2,7 +2,7 @@
 
 # Guide pour Configurer un Bot Discord de Surveillance des Actualités Steam avec Animoca Minds
 
-Maintenir votre communauté de joueurs informée des actualités Steam ne nécessite plus d'efforts manuels ni de compétences en programmation. Ce guide vous explique comment configurer une automatisation sans code avec [Animoca Minds](https://www.animocaminds.ai/) pour surveiller le flux RSS de [Steam](https://store.steampowered.com/) et publier automatiquement des résumés quotidiens — que ce soit dans un canal Discord ou dans votre boîte de réception.
+Maintenir votre communauté de joueurs informée des actualités Steam ne nécessite plus d'efforts manuels ni de compétences en programmation. Ce guide vous explique comment configurer une automatisation sans code avec [Animoca Minds](https://animocaminds.ai/) pour surveiller le flux RSS de [Steam](https://store.steampowered.com/) et publier automatiquement des résumés quotidiens — que ce soit dans un canal Discord ou dans votre boîte de réception.
 
 Le système connecte trois composants principaux : le flux RSS de Steam, la plateforme IA Animoca Minds et votre canal de notification préféré. Aucune programmation n'est requise ; l'agent IA gère la surveillance, le résumé et la publication en votre nom.
 
@@ -22,7 +22,7 @@ Votre agent automatisé peut :
 Avant de commencer, assurez-vous d'avoir :
 
 - Un serveur Discord où vous avez des permissions d'administration ou de gestion des bots (requis pour la diffusion Discord)
-- Un compte [Animoca Minds](https://www.animocaminds.ai/)
+- Un compte [Animoca Minds](https://animocaminds.ai/)
 
 ## Étape 1 : Créer et configurer votre bot Discord
 
@@ -51,7 +51,7 @@ Cette étape s'applique si vous souhaitez que les mises à jour soient publiées
 
 ## Étape 2 : Configurer votre Animoca Mind
 
-1. Visitez [animocaminds.ai](https://www.animocaminds.ai/) et connectez-vous ou créez un compte.
+1. Visitez [animocaminds.ai](https://animocaminds.ai/) et connectez-vous ou créez un compte.
 2. Vérifiez votre boîte de réception pour l'e-mail de bienvenue d'Animoca Minds (attendez jusqu'à 5 minutes).
 3. Répondez pour commencer à configurer un nouveau Mind. Définissez :
    - **Nom :** ex. "Steam Scout"
@@ -85,7 +85,7 @@ Cette étape s'applique si vous souhaitez que les mises à jour soient publiées
 
 ## Liens utiles
 
-- [Animoca Minds](https://www.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Discord Developer Portal](https://discord.com/developers/applications)
 - [Steam Store](https://store.steampowered.com/)
 - [Flux RSS d'actualités Steam](https://store.steampowered.com/feeds/news.xml)

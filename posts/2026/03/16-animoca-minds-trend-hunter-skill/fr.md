@@ -24,7 +24,7 @@ La Compétence Trend Hunter équipe votre Mind avec trois fonctions principales 
 
 ### Étape 1 : Créez ou Connectez-vous à votre Animoca Mind
 
-Visitez [AnimocaMinds.ai](https://app.animocaminds.ai) pour configurer votre agent. Les nouveaux utilisateurs seront guidés à travers un processus d'intégration rapide. Les utilisateurs existants peuvent se connecter et naviguer jusqu'au panneau de gestion des compétences de votre Mind.
+Visitez [AnimocaMinds.ai](https://animocaminds.ai) pour configurer votre agent. Les nouveaux utilisateurs seront guidés à travers un processus d'intégration rapide. Les utilisateurs existants peuvent se connecter et naviguer jusqu'au panneau de gestion des compétences de votre Mind.
 
 ### Étape 2 : Équipez la Compétence Trend Hunter
 
@@ -61,7 +61,7 @@ Votre Mind grandit avec vous. Au fur et à mesure que vous vous sentez à l'aise
 
 ## Liens utiles
 
-- [Application Animoca Minds](https://app.animocaminds.ai/)
+- [Application Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

@@ -69,11 +69,11 @@ En lugar de desplazarte interminablemente, obtienes:
 
 La utilidad va mucho más allá de simplemente revisar publicaciones más rápido. Tu Mind puede seguir fundadores, KOLs, proyectos, estudios de juegos, comentaristas de mercado o competidores, todos a la vez, incluso cuando publican en diferentes idiomas. Convierte el rastreo de X en algo estructurado, multilingüe y realmente útil.
 
-**Despierta tu Mind hoy:** [animocaminds.ai](https://app.animocaminds.ai)
+**Despierta tu Mind hoy:** [animocaminds.ai](https://animocaminds.ai)
 
 ## Enlaces útiles
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

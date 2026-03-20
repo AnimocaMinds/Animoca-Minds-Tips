@@ -33,14 +33,14 @@ Equip yourself with the app "Google_Drive_Suite" (ID: E71CEC8B-BE18-F111-AD1D-0E
 
 ## 第五阶段：向Mind提供凭据
 
-1. 返回[https://app.animocaminds.ai/](https://app.animocaminds.ai/)。
+1. 返回[https://animocaminds.ai/](https://animocaminds.ai/)。
 2. 提供：[授权码]、[访问令牌]、[刷新令牌]、Client Secret JSON文件。
 
 Mind现在能够直接在Google Drive中创建、读取和写入文件了。
 
 ## 实用链接
 
-- [Animoca Minds平台](https://app.animocaminds.ai/)
+- [Animoca Minds平台](https://animocaminds.ai/)
 - [Google Cloud Console](https://console.cloud.google.com/)
 - [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 

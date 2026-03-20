@@ -69,11 +69,11 @@ Au lieu de défiler sans fin, vous obtenez :
 
 L'utilité va bien au-delà de simplement vérifier les publications plus rapidement. Votre Mind peut suivre des fondateurs, des KOLs, des projets, des studios de jeux, des commentateurs de marché ou des concurrents, tous en même temps — même lorsqu'ils publient dans différentes langues. Cela transforme le suivi X en quelque chose de structuré, multilingue et réellement utile.
 
-**Éveillez votre Mind aujourd'hui :** [animocaminds.ai](https://app.animocaminds.ai)
+**Éveillez votre Mind aujourd'hui :** [animocaminds.ai](https://animocaminds.ai)
 
 ## Liens utiles
 
-- [Animoca Minds](https://app.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Animoca Brands](https://www.animocabrands.com)
 - [X — @AnimocaMinds](https://x.com/AnimocaMinds)
 

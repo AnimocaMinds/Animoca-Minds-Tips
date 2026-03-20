@@ -1,8 +1,12 @@
+**Looking for the prompt?** [Monitor Steam news](../../../prompts/steam-news-monitor.md)
+
+---
+
 ![Guide to Setting Up a Steam News Monitoring Discord Bot with Animoca Minds](assets/banner.png)
 
 # Guide to Setting Up a Steam News Monitoring Discord Bot with Animoca Minds
 
-Keeping your gaming community updated on Steam news no longer requires manual effort or coding skills. This guide walks you through setting up a no-code automation using [Animoca Minds](https://www.animocaminds.ai/) to monitor [Steam's](https://store.steampowered.com/) RSS feed and automatically deliver daily news summaries — either to a Discord channel or your email inbox.
+Keeping your gaming community updated on Steam news no longer requires manual effort or coding skills. This guide walks you through setting up a no-code automation using [Animoca Minds](https://animocaminds.ai/) to monitor [Steam's](https://store.steampowered.com/) RSS feed and automatically deliver daily news summaries — either to a Discord channel or your email inbox.
 
 The system connects three main components: Steam's RSS feed, the Animoca Minds AI platform, and your preferred notification channel. No programming is required; the AI agent handles monitoring, summarising, and posting on your behalf.
 
@@ -22,7 +26,7 @@ Your automated agent can:
 Before starting, make sure you have:
 
 - A Discord server where you hold administrative or bot management permissions (required for Discord delivery)
-- An [Animoca Minds](https://www.animocaminds.ai/) account
+- An [Animoca Minds](https://animocaminds.ai/) account
 
 ## Step 1: Create and Configure Your Discord Bot
 
@@ -51,7 +55,7 @@ This step applies if you want updates posted to a Discord channel. If you prefer
 
 ## Step 2: Set Up Your Animoca Mind
 
-1. Visit [animocaminds.ai](https://www.animocaminds.ai/) and sign in or create an account.
+1. Visit [animocaminds.ai](https://animocaminds.ai/) and sign in or create an account.
 2. Check your inbox for the welcome email from Animoca Minds (allow up to 5 minutes).
 3. Reply to start setting up a new Mind. Define:
    - **Name:** e.g., "Steam Scout"
@@ -85,7 +89,7 @@ This step applies if you want updates posted to a Discord channel. If you prefer
 
 ## Useful links
 
-- [Animoca Minds](https://www.animocaminds.ai/)
+- [Animoca Minds](https://animocaminds.ai/)
 - [Discord Developer Portal](https://discord.com/developers/applications)
 - [Steam Store](https://store.steampowered.com/)
 - [Steam RSS News Feed](https://store.steampowered.com/feeds/news.xml)

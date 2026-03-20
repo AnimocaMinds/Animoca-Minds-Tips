@@ -1,3 +1,7 @@
+**Looking for the prompt?** [Build a Discord bot](../../../prompts/discord-bot.md)
+
+---
+
 ![Building No-Code Discord Bots with Animoca Minds](assets/banner.png)
 
 # Unlocking AI Agents for Every Skill: Building No-Code Discord Bots with Animoca Minds
@@ -25,7 +29,7 @@ Follow these steps in order. Each one builds on the last, and we've included tip
 **Step 1: Create Your AI Agent on Animoca Minds**  
 Kick off in the Animoca Minds platformÃ¢ÂÂthis is where your AI "brain" lives.
 
-1. Visit [https://www.animocaminds.ai/](https://www.animocaminds.ai/) and enter your email address to sign up (or log in if you have an account).  
+1. Visit [https://animocaminds.ai/](https://animocaminds.ai/) and enter your email address to sign up (or log in if you have an account).  
 2. Check your mailbox. You'll receive a welcome email from animocaminds.ai.  
 3. Reply to the welcome email to create your own Mind: Give it a name, define its persona, and set its speciality (e.g., an AI agent dedicated to Discord communications).  
 4. You may exchange a few emails with the initial Concierge AI as it asks for details, but you can instruct it to "create the Mind now!" You'll get an email when your Mind is awakened.
@@ -39,7 +43,7 @@ Pro Tip: Communication with Animoca Minds can be done using either email or Tele
 * Give the bot a name (e.g., My Mind Peter).  
 * Give a username to your bot (must end in '_bot', e.g., peter123_bot).  
 * Copy the HTTP API token (treat it as confidential for security).  
-* Go to [https://app.animocaminds.ai/profile](https://app.animocaminds.ai/profile) and click "Link Telegram".  
+* Go to [https://animocaminds.ai/profile](https://animocaminds.ai/profile) and click "Link Telegram".  
 * Enter your phone number and receive a verification code from Telegram.  
 * Insert the verification code into the pop-up window.  
 * In Telegram, press Ã¢ÂÂConnectÃ¢ÂÂ / Ã¢ÂÂAcceptÃ¢ÂÂ in the message.  
@@ -153,7 +157,7 @@ Ready to deploy? Head to Animoca Minds today and experiment. Your projects wiyl 
 ## **Useful links**
 
 * Original thread by Yat Siu: [https://x.com/ysiu/status/2028524246897680884?s=20](https://x.com/ysiu/status/2028524246897680884?s=20)  
-* Animoca Minds platform: [https://www.animocaminds.ai/](https://www.animocaminds.ai/)  
+* Animoca Minds platform: [https://animocaminds.ai/](https://animocaminds.ai/)  
 * Discord Developer Portal: [https://discord.com/developers/applications](https://discord.com/developers/applications)  
 * Discord Developer Team Guide: [https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team](https://support-dev.discord.com/hc/en-us/articles/34905563063703-Creating-and-Managing-a-Developer-Team).
 ---
